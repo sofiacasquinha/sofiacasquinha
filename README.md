@@ -1,4 +1,4 @@
-## Hey there! I'm Sofia 👋
+## Hey there! I'm Sofia 😄
 
 A passionate Data Science for Marketing student focused on real-world problems and meaningful projects.
 
