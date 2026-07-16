@@ -5,4 +5,4 @@ A passionate Data Scientist student focused on real-world problems and meaningfu
 I’m interested in data science that asks *why* before it asks *how*, and in building models that have a clear point of view and practical relevance.
 
 
-🛠️ Python · SQL · Machine Learning · Data Analytics
+🛠️ Python · SQL · Machine Learning · Data Analytics 
